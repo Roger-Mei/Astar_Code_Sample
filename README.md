@@ -1,7 +1,7 @@
 # Astar_Code_Sample
 This project is to use A* searching algorithm to do path planning in 2D grid map. The agent is only allowed to move vertically or horizontally.
 
-# Files:
+# Source Files:
 main.cpp --> read map file and run Astar 
 
 Astar.h --> declare the variable and objects used for Astar.cpp
