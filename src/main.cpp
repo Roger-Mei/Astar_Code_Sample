@@ -5,7 +5,9 @@
 #include "Astar.h"
 
 using namespace std;
- 
+
+#define WAIT std::cin.get()
+
 int main()
 {   
     //Initialize the 2-D grid map, where 1 represents obstacles and 0
@@ -44,6 +46,6 @@ int main()
     }
     cout << "Search Ends!" << endl;     
  
-    cin.get();
+    WAIT;
     return 0;
 }
