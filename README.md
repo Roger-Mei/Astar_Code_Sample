@@ -2,9 +2,12 @@
 This project is to use A* searching algorithm to do path planning in 2D grid map. The agent is only allowed to move vertically or horizontally.
 
 # Files:
-main.cpp --> read map file and run Astar \n
+main.cpp --> read map file and run Astar 
+
 Astar.h --> declare the variable and objects used for Astar.cpp
+
 Astar.cpp --> define several functions for the A* algorithm
+
 map.txt --> 2-D map, where 0 is the available vacant space and 1 represent for obstacles. 
 
 # How to run this program:
